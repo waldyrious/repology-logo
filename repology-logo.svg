@@ -2,8 +2,8 @@
   <defs>
      <linearGradient id="redGreen" gradientTransform="rotate(90)">
       <stop stop-color="#e89593" offset="0%" />
-      <stop stop-color="#d9534f" offset="33%" />
-      <stop stop-color="#64c664" offset="33%" />
+      <stop stop-color="#d9534f" offset="33.33%" />
+      <stop stop-color="#64c664" offset="33.33%" />
       <stop stop-color="#1e7d1e" offset="100%" />
     </linearGradient>
   </defs>
